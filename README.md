@@ -2,7 +2,7 @@
 
 ## Topics
 
-## Smart contract structure (solidity)
+### Smart contract structure (solidity)
 
 - state variabes
 - events
@@ -22,4 +22,3 @@
 - connect metamask
 - interact with the contract (send tx)
 - interact with the contract (call)
-# workshop-metana
